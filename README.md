@@ -1,11 +1,11 @@
-# Tacotron2ROS 
+# tacotron2ros 
 
 ![cover](/img/cover.png)
 
 ## Description
 
 ROS Package to Generate very natural sounding speech from include.text (text-to-speech, TTS).
-This package utilize the tacotron2 deep learning model from the Google AI research lab DeepMind,read more [here](https://ai.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html).
+This package utilizes the tacotron2 deep learning model from the Google AI research lab DeepMind,read more [here](https://ai.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html).
 You can used to give your Robot a human like voice and its completely offline.
 
 [Demo](https://youtu.be/2grU254aAHI)
